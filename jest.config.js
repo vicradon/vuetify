@@ -1,5 +1,5 @@
 module.exports = {
-  verbose: false,
+  verbose: true,
   testEnvironment: 'jest-environment-jsdom-fourteen',
   roots: [
     '<rootDir>/src',
